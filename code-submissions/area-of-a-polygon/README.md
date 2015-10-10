@@ -21,8 +21,8 @@ To compile and run, use `make compile run` or simply `make run`.
 The `clean` target will remove the `./bin` directory.
 
 ### In the Book
-I imagine this code snippet be put in the book as follows (cuts out boring parts
-and test code while showing language-specific structure):
+I imagine this code snippet being put in the book as follows (cuts out boring
+parts and test code while showing language-specific structure):
 
 ```scala
 object AreaPolygon {
